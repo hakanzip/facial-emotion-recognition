@@ -1,0 +1,4 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,cv_f1_macro
+KNN,0.2812,0.2307,0.2022,0.1849,0.1897
+Random Forest,0.3425,0.2837,0.2694,0.257,0.2562
+XGBoost,0.36,0.29,0.2856,0.2795,0.2833
